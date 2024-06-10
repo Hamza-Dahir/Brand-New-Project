@@ -1,0 +1,1 @@
+print("Jericho is gay")
